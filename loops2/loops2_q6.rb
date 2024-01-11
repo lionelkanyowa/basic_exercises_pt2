@@ -2,3 +2,7 @@
 #Stop the loop once names doesn't contain any more elements.
 
 names = ['Sally', 'Joe', 'Lisa', 'Henry']
+
+until names.empty?
+  puts names.shift
+end
