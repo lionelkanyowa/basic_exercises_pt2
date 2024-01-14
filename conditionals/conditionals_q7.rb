@@ -1,4 +1,4 @@
-#Q.7 In the code below, stoplight is randomly assigned as 'green', 'yellow', or 'red'.
+#Q.6 In the code below, stoplight is randomly assigned as 'green', 'yellow', or 'red'.
 
 stoplight = ['green', 'yellow', 'red'].sample
 

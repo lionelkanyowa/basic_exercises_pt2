@@ -1,5 +1,5 @@
 =begin
-Q.8 Convert the following case statement to an if statement.
+Q.7 Convert the following case statement to an if statement.
 
 stoplight = ['green', 'yellow', 'red'].sample
 

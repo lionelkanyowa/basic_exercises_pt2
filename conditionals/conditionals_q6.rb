@@ -1,4 +1,4 @@
-#Q.6 What will the following code print? Why? Don't run it until you've attempted to answer.
+#Q.5 What will the following code print? Why? Don't run it until you've attempted to answer.
 
 number = 7
 

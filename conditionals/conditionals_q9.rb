@@ -1,4 +1,4 @@
-#Q.9 In the code below, status is randomly assigned as 'awake' or 'tired'.
+#Q.8 In the code below, status is randomly assigned as 'awake' or 'tired'.
 
 status = ['awake', 'tired'].sample
 

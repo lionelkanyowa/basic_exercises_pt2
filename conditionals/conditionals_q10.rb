@@ -1,4 +1,4 @@
-#Q.10 In the code below, number is randomly assigned a number between 0 and 9. Then, an if statement is
+#Q.9 In the code below, number is randomly assigned a number between 0 and 9. Then, an if statement is
 # used to print "5 is a cool number!" or "Other numbers are cool too!" based on the value of number.
 
 =begin
